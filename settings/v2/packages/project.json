@@ -5,5 +5,11 @@
       "width": 585,
       "height": 329
     }
-  }
+  },
+  "layer": [
+    {
+      "name": "ctrl",
+      "value": 1
+    }
+  ]
 }
